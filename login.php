@@ -54,8 +54,8 @@
         </div>
         <div class="body">
             <h3>You are a <?php echo $gen ?></h3>
-            <h3>You are born on <?php echo $dob ?></h3>
-            <h3>You are mobile number is <?php echo $mob ?></h3>
+            <h3>You were born on <?php echo $dob ?></h3>
+            <h3>Your rmobile number is <?php echo $mob ?></h3>
         </div>
         <div class="ending">
             <h2>Thank you for logging in</h2>
